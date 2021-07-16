@@ -9,7 +9,7 @@ Concluído ✅
 
 ## 💻 Sobre
 
-Decidi realizar esse site para testar os meus conhecimentos de HTML e CSS para criar um site para poder deixar linkado no painel do meu canal da Twitch, tentei deixar o site exemplificado da forma mais simples possível, também utilizei o Bootstrap para a estilização dos botões. O site é responsivo, logo o tamanho da sua página é adaptado caso o usuário esteja utilizando uma tela menor do que o comum, como no celular, por exemplo.
+Decidi realizar esse site para testar os meus conhecimentos de HTML e CSS para criar um site para poder deixar linkado no painel do <a href="https://www.twitch.tv/brnmdr/about" target="_blank">meu canal da Twitch</a>, tentei deixar o site exemplificado da forma mais simples possível, também utilizei o Bootstrap para a estilização dos botões. O site é responsivo, logo o tamanho da sua página é adaptado caso o usuário esteja utilizando uma tela menor do que o comum, como no celular, por exemplo.
 
 Além disso, utilizei o Netlify que é um serviço que oferece hospedagem e serviços de back-end sem servidor para aplicativos da web e sites estáticos, que fez com que eu conseguisse deixar o site hospedado na internet. 
 
